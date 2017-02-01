@@ -84,6 +84,4 @@ int main()
 	exec(regs_2, inst);
 	std::cout << "Part 1: " << regs_1[0] << '\n' 
 		      << "Part 2: " << regs_2[0] << '\n';
-
-
 }
